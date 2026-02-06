@@ -2,20 +2,14 @@
   "name": "searchx",
   "type": "module",
   "version": "1.0.0",
-  "description": "Advanced Twitter/X viral tweet discovery platform with 3D UI and real-time data",
-  "author": "Your Name",
-  "license": "MIT",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
-    "preview": "astro preview",
-    "release": "npm run build",
-    "env": "echo 'Configure your .env file with API keys'",
-    "check": "astro check",
-    "test:run": "vitest run",
-    "test": "vitest",
-    "lint": "eslint . --ext .ts,.tsx,.astro",
-    "format": "prettier --write ."
+    "dev": "wix dev",
+    "build": "wix build",
+    "preview": "wix preview",
+    "release": "wix release",
+    "env": "wix env pull",
+    "check": "npx astro check --js-only",
+    "test:run": "vitest run" 
   },
   "dependencies": {
     "@astrojs/check": "0.9.4",
