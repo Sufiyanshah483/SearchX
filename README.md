@@ -142,17 +142,4 @@ Built with modern web technologies to create a fast and scalable tweet discovery
 
 ```
 
----
-
-If you want, I can:
-- Make **README more GitHub-portfolio attractive**
-- Add **screenshots section**
-- Add **live demo badge**
-- Add **cool badges (build, tech, license, stars)**
-- Write **project description for resume**
-- Convert to **top-tier open-source style README**
-
-Just say 👍
-::contentReference[oaicite:0]{index=0}
-```
 
